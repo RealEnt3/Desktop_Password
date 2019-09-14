@@ -2,11 +2,11 @@
 ::--Settings
 	@echo off
 		color 03
-			call %~d0\programmierung\dev\var.bat
-                title ## ENTER %real_name%s Desktop PASSWORD ##  
-                    taskkill /F /IM explorer.exe
-::                        start /min %~dp0%Backup_locked.bat
-                            cls 
+		call %~d0\programmierung\dev\var.bat	REM <Replace this path with that of var.bat> < %~d0 = E>
+        	title ## ENTER %username%s Desktop PASSWORD ##  
+        	taskkill /F /IM explorer.exe
+::  <Disabled>                      start /min %~dp0%Backup_locked.bat
+                cls 
 ::--Time
 	@echo ###########
 	@echo ## %time:~0,5% ##
