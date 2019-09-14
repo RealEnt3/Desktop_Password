@@ -2,7 +2,7 @@
 ::--Settings
 	@echo off
 		color 03
-		call %~d0\programmierung\dev\var.bat	REM <Replace this path with that of var.bat> < %~d0 = E>
+		call %~d0\programmierung\dev\var.bat	REM <Replace this path with that of var.bat> < %~d0 = the current Drive Letter = E: A: C: or something>
         	title ## ENTER %username%s Desktop PASSWORD ##  
         	taskkill /F /IM explorer.exe
 ::  <Disabled>                      start /min %~dp0%Backup_locked.bat
