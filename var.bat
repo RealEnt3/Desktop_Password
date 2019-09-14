@@ -9,3 +9,4 @@
     set passwort=BestPasswordEver
     set backdoor=recover
     REM <Batch ignores large and lower case>
+    REM <You can change our password here - Replace "BestPasswordEver" with your new password - finish>
