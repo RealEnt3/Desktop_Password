@@ -6,3 +6,9 @@ This script may be used by anyone and used as a template
 
 # Condition: 
 *Mention in the line header and link of the Github project
+
+
+You can change the password in "var.bat"
+ 
+Only one step:
+Replace "BestPasswordEver" with your new password
