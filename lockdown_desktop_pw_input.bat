@@ -1,4 +1,10 @@
-::exit
+:: |*****************************|
+:: |Author:Gabriel Konrad
+:: |https://github.com/RealEnt3/
+:: | gabriel.konrad@gmx.net
+:: |by-: Gabriel Konrad
+:: |_____________________________|
+
 ::--Settings
 	@echo off
 		color 03
