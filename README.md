@@ -15,4 +15,4 @@ Before you use the script, change the path from "var.bat" to "lockdown_desktop_p
 You can change the password in "var.bat"
  
 Only one step:
-Replace "BestPasswordEver" with your new password
+Replace "123password" with your new password
